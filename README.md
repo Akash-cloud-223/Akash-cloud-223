@@ -117,15 +117,15 @@ Status: 🚧 Currently in Development
 
 💼 Experience
 
-SAP Administrator — Luminous India
+SAP Operator (Admin)  — Luminous Power Technologies PVT. LTD. India
 
 July 2025 – Present | Gagret, Himachal Pradesh
 
-- Worked with SAP system configurations and user access
-- Supported data migration activities
-- Worked with cross-functional teams
-- Conducted system audits
-- Supported day-to-day operational efficiency
+-	Handle plant material gate operations using SAP, including vehicle entry/exit and material movement records.
+-	Maintain operational entries and documentation for material inward and outward movements.
+-	Coordinate weighbridge-related activities and maintain accurate vehicle weight records.
+-	Work with relevant teams to support smooth gate operations and resolve entry or record discrepancies.
+
 
 Team Leader Manager — Club Nutra
 
